@@ -1,0 +1,2 @@
+export TZ=':/etc/localtime'
+export TERM=linux
